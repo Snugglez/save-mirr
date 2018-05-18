@@ -1,10 +1,10 @@
 {
-	"files": {
-		"index.js": "b2299a901082e5ab4f77c9c448d54d5a0273b6acb7ce7a737b9e4e933224d671",
-		"README.md": "daa2031242b78a3e6c94dfd16ae17a5264973f2b8d1e9514d1a973ee3a36904f",
-		"teleporters.json": "137b371b5cabccabd41d1debbffb5b1fd6075dea37822ea6fa6b2321f7f64a97"
+  "files": {
+    "index.js": "7edbf11b2074f425929961bdeb5610085dba5347912944ded05b31bae7900311",
+    "README.md": "4185afb2d86e357d868e82b107389dd7b7437d60ea6c4b1372ead4daf2dd4a18",
+    "teleporters.json": "20dd3f85640b088a4f8a49bb0521f239f18ff473b31475c73e2dd5d39273a0d8"
 	},
 	"defs": {
-		"S_SPAWN_NPC": 6
+		"S_SPAWN_NPC": 8
 	}
 }

@@ -6,7 +6,7 @@ module.exports = function saveMIRR(dispatch) {
     teleporters = JSON.parse(data);
     return;
   });
-  dispatch.hook('S_SPAWN_NPC', 6, (event) => {
+  dispatch.hook('S_SPAWN_NPC', 8, (event) => {
     if(!event.villager) return;
     for(let i of teleporters){
       if(!(i.HuntingZoneId - event.huntingZoneId) && !(i.ID - event.templateId)){
